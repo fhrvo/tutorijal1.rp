@@ -1,3 +1,10 @@
+org.xerial:sqlite-jdbc:3.31.1
+mysql:mysql-connector-java:8.0.11
+org.json:json:20180813
+org.junit.jupiter:junit-jupiter-api:5.6.0
+org.testfx:testfx-junit5:4.0.15-alpha
+
+
 package ba.unsa.etf.rs;
 
 import javafx.application.Application;
